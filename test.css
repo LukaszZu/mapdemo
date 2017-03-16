@@ -1,0 +1,10 @@
+.map {
+    width: 800px;
+    height: 800px;
+}
+
+.pub_point {
+    fill:rgb(148,0,211);
+    stroke: #fff;
+    fill-opacity: 0.6;
+}
